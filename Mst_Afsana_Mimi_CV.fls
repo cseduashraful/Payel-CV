@@ -2,7 +2,7 @@ PWD /Users/mdashrafulislam/paper_drafts/Payel_CV
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT Mst_Afsana_Mimi_CV.tex
+INPUT /Users/mdashrafulislam/paper_drafts/Payel_CV/Mst_Afsana_Mimi_CV.tex
 OUTPUT Mst_Afsana_Mimi_CV.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
